@@ -1,0 +1,21 @@
+{
+  "input": [
+    {
+      "item": "milk",
+      "count": 1
+    },
+    {
+      "item": "chocolate",
+      "count": 1
+    }
+  ],
+  "output": {
+    "item": "coockie",
+    "count": 10
+  },
+  "groups": [
+    "kitchen",
+    "consumables",
+    "foodhealing"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "itemName": "coockie",
+  "rarity": "Common",
+  "price": "15",
+  "inventoryIcon": "c.png",
+  "description": "Little coockie",
+  "shortdescription":"Coockie",
+  "effects": [
+    [
+      {
+        "effect": "foodheal100",
+        "duration": 10
+      }
+    ],
+    [
+      {
+        "effect": "regeneration10",
+        "duration": 10
+      }
+    ]
+  ]
+}
